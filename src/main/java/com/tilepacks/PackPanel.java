@@ -47,7 +47,7 @@ import java.util.List;
 class PackPanel extends JPanel {
 
     private static final int ROW_WIDTH = PluginPanel.PANEL_WIDTH - 10;
-    private static final int ROW_HEIGHT = 30;
+    private static final int ROW_HEIGHT = 40;
     private static final int RIGHT_PANEL_WIDTH = 40;
 
     private static final ImageIcon ADD_ICON;
